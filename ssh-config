@@ -1,0 +1,5 @@
+# CAEN
+Host ipatney
+	HostName login.engin.umich.edu
+	User ipatney
+	Compression yes
